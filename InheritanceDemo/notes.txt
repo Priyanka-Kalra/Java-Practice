@@ -1,0 +1,16 @@
+1. Multiple Inheritance does not work in Java, it means on class can not inherit from two or more parent class, bcz of ambiguity.
+
+2. Every class in java extends Object class(super class)
+
+3. we can use this() to call other constructor of same class.
+
+4. The Calc class has a parameterized constructor but no default (no-argument) constructor.When you a subclass AdvCal is instantiated, Java implicitly tries to call the superclass's no-argument constructor unless you explicitly call another constructor in the superclass. So to explicitly call parameterised constructer of super calss we use 'super()' here, super() calls constructor of super class
+
+5. we import java.lang.* by default ,System is being imported from java.lang.System
+
+6.We can create a reference of superclass and obj of subclass, eg:
+
+public class A{}
+public class B extends A{}
+
+so in main, we can use: A obj=new B();
