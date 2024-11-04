@@ -1,0 +1,9 @@
+1. Using final:
+We can make a variable constant
+We can stop inheritance of a class by using final
+We can avoid function overriding by using final 
+
+2. upcasting/downcasting-check it out
+3. polymorphism-check it out
+4.storing the primitive value/variable to the corresponding wrapper class is boxing
+5. taking primitive value from corresponding wrapper class in unboxing
