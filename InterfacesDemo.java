@@ -13,6 +13,7 @@ class B implements A {
         System.out.println("In Show");
     }
 
+    @Override
     public void config() {
         System.out.println("In Config");
     }
