@@ -1,0 +1,30 @@
+1. Using final:
+We can make a variable constant
+We can stop inheritance of a class by using final
+We can avoid function overriding by using final 
+
+2. upcasting/downcasting-check it out
+3. polymorphism-check it out
+4.storing the primitive value/variable to the corresponding wrapper class is boxing
+5. taking primitive value from corresponding wrapper class in unboxing
+
+6. Abstarct class can only have abstract methods
+7. we cant create obj of abstract class, but refrence of abstract class can be made
+abstract class A{}
+class B extends A{}
+
+so in main, we can use: A obj=new B();
+but not A obj=new A();
+
+8. In Interfaces, all the methods are 'abstract public' by default
+9.we can access variables of interface without having to declare obj(but variables are static and final)
+10.see video 76
+
+11. We have 3 types of interface:
+    a.Normal- with 2 or more methods
+    b.Functional/SAM(Single Abstract Method)-with one method
+    c.Marker- with zero methods
+
+12. Serialisation, storing values/objects(from runtime) in hard drive of system- using Marker Interface
+
+13. Functional Interfaces helps in utilising lambda expressions
