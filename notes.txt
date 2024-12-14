@@ -41,3 +41,14 @@ Similary System.in.read(), 'read' is method of 'InputStream' class with object a
 
 16. Threads:
 https://www.geeksforgeeks.org/java-threads/
+
+17.Hashmaps and Hashtables in Collections Framework:
+https://chatgpt.com/share/674a1cc5-b868-8005-a001-d4d2add6d1fa
+https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/
+
+18.comparator vs comparable
+
+19.stream API,parallel stream
+
+20.method refrence,constructor refrence
+https://chatgpt.com/share/675d4af2-cf28-8005-a287-8003e58b2f21
