@@ -14,3 +14,4 @@ public class A{}
 public class B extends A{}
 
 so in main, we can use: A obj=new B();
+upcasting done here

@@ -1,0 +1,3 @@
+1. web app
+https://chatgpt.com/share/67f4377f-d790-8005-a879-b1846cfbc290
+https://www.tpointtech.com/servlet-tutorial#:~:text=Servlet%20is%20a%20class%20that,create%20a%20dynamic%20web%20page.

@@ -1,0 +1,13 @@
+1. IOC and di
+https://chatgpt.com/share/67680890-a5e4-8005-8e87-b9c60d1257c5
+
+2. Hiberante/orm  Servlets/mvc
+
+3. Bean Scope
+https://chatgpt.com/share/67699c8c-26c8-8005-bf55-501c5e8bf114
+
+4. Revise all:
+https://chatgpt.com/share/67f16842-3498-8005-9a83-7e89de4042f0
+https://chatgpt.com/share/67fbdb52-6adc-8005-be3e-d1ea434d7bb2
+
+
